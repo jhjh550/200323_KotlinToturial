@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dd590df-1a51-4998-8dd6-a2d46d50ccc1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter2/T23_inner.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter2/T24_object.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/T25_lambda.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/T26_function_type.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinTutorial/META-INF/KotlinTutorial.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinTutorial/META-INF/KotlinTutorial.kotlin_module" afterDir="false" />
     </list>
@@ -42,20 +44,7 @@
       <recent name="C:\Users\a\IdeaProjects\KotlinTutorial\src\chapter1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.chapter2.T23_innerKt">
-    <configuration name="chapter2.T15_lateinitKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinTutorial" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chapter2.T15_lateinitKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.chapter3.T25_lambdaKt">
     <configuration name="chapter2.T18_inheritanceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinTutorial" />
       <option name="VM_PARAMETERS" />
@@ -108,13 +97,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="chapter3.T25_lambdaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinTutorial" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chapter3.T25_lambdaKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.chapter3.T25_lambdaKt" />
         <item itemvalue="Kotlin.chapter2.T23_innerKt" />
         <item itemvalue="Kotlin.chapter2.T22_enumKt" />
         <item itemvalue="Kotlin.chapter2.T21_DataClassKt" />
         <item itemvalue="Kotlin.chapter2.T18_inheritanceKt" />
-        <item itemvalue="Kotlin.chapter2.T15_lateinitKt" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584950207955</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="inner class">
+      <created>1584950928200</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1584950928200</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -221,41 +230,42 @@
     <MESSAGE value="property" />
     <MESSAGE value="interface" />
     <MESSAGE value="enum" />
-    <option name="LAST_COMMIT_MESSAGE" value="enum" />
+    <MESSAGE value="inner class" />
+    <option name="LAST_COMMIT_MESSAGE" value="inner class" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-714" y="28" key="#com.intellij.ide.util.MemberChooser" timestamp="1584950066655">
+    <state x="-714" y="28" key="#com.intellij.ide.util.MemberChooser" timestamp="1584952452746">
       <screen x="-1024" y="-74" width="1024" height="768" />
     </state>
-    <state x="-714" y="28" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1584950066655" />
-    <state x="-850" y="-74" key="CommitChangelistDialog2" timestamp="1584950207745">
+    <state x="-714" y="28" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1584952452746" />
+    <state x="-850" y="-74" key="CommitChangelistDialog2" timestamp="1584950927975">
       <screen x="-1024" y="-74" width="1024" height="768" />
     </state>
-    <state x="-850" y="-74" key="CommitChangelistDialog2/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1584950207745" />
-    <state width="980" height="203" key="GridCell.Tab.0.bottom" timestamp="1584950519167">
+    <state x="-850" y="-74" key="CommitChangelistDialog2/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1584950927975" />
+    <state width="980" height="203" key="GridCell.Tab.0.bottom" timestamp="1584953152848">
       <screen x="-1024" y="-74" width="1024" height="768" />
     </state>
-    <state width="980" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1584950519167" />
-    <state width="980" height="203" key="GridCell.Tab.0.center" timestamp="1584950519167">
+    <state width="980" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1584953152848" />
+    <state width="980" height="203" key="GridCell.Tab.0.center" timestamp="1584953152848">
       <screen x="-1024" y="-74" width="1024" height="768" />
     </state>
-    <state width="980" height="203" key="GridCell.Tab.0.center/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1584950519167" />
-    <state width="980" height="203" key="GridCell.Tab.0.left" timestamp="1584950519167">
+    <state width="980" height="203" key="GridCell.Tab.0.center/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1584953152848" />
+    <state width="980" height="203" key="GridCell.Tab.0.left" timestamp="1584953152847">
       <screen x="-1024" y="-74" width="1024" height="768" />
     </state>
-    <state width="980" height="203" key="GridCell.Tab.0.left/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1584950519167" />
-    <state width="980" height="203" key="GridCell.Tab.0.right" timestamp="1584950519167">
+    <state width="980" height="203" key="GridCell.Tab.0.left/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1584953152847" />
+    <state width="980" height="203" key="GridCell.Tab.0.right" timestamp="1584953152848">
       <screen x="-1024" y="-74" width="1024" height="768" />
     </state>
-    <state width="980" height="203" key="GridCell.Tab.0.right/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1584950519167" />
+    <state width="980" height="203" key="GridCell.Tab.0.right/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1584953152848" />
     <state x="-1009" y="-59" key="SettingsEditor" timestamp="1584927297832">
       <screen x="-1024" y="-74" width="1024" height="768" />
     </state>
     <state x="-1009" y="-59" key="SettingsEditor/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1584927297832" />
-    <state x="-920" y="45" key="Vcs.Push.Dialog.v2" timestamp="1584950209207">
+    <state x="-920" y="45" key="Vcs.Push.Dialog.v2" timestamp="1584950929367">
       <screen x="-1024" y="-74" width="1024" height="768" />
     </state>
-    <state x="-920" y="45" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1584950209207" />
+    <state x="-920" y="45" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1584950929367" />
     <state x="664" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1584927119502">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

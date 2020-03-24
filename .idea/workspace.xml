@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dd590df-1a51-4998-8dd6-a2d46d50ccc1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter2/T24_object.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/T25_lambda.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/T26_function_type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/T31_collection.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/T32_annotation.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinTutorial/META-INF/KotlinTutorial.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinTutorial/META-INF/KotlinTutorial.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter3/T30_Exception.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/T30_Exception.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,67 +44,67 @@
       <recent name="C:\Users\a\IdeaProjects\KotlinTutorial\src\chapter1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.chapter3.T25_lambdaKt">
-    <configuration name="chapter2.T18_inheritanceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.chapter3.T32_annotationKt">
+    <configuration name="chapter3.T28_HigherOrderUtilFunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinTutorial" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chapter2.T18_inheritanceKt" />
+      <option name="MAIN_CLASS_NAME" value="chapter3.T28_HigherOrderUtilFunctionsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chapter2.T21_DataClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="chapter3.T29_nullableKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinTutorial" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chapter2.T21_DataClassKt" />
+      <option name="MAIN_CLASS_NAME" value="chapter3.T29_nullableKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chapter2.T22_enumKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="chapter3.T30_ExceptionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinTutorial" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chapter2.T22_enumKt" />
+      <option name="MAIN_CLASS_NAME" value="chapter3.T30_ExceptionKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chapter2.T23_innerKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="chapter3.T31_collectionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinTutorial" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chapter2.T23_innerKt" />
+      <option name="MAIN_CLASS_NAME" value="chapter3.T31_collectionKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chapter3.T25_lambdaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="chapter3.T32_annotationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinTutorial" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chapter3.T25_lambdaKt" />
+      <option name="MAIN_CLASS_NAME" value="chapter3.T32_annotationKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.chapter3.T25_lambdaKt" />
-        <item itemvalue="Kotlin.chapter2.T23_innerKt" />
-        <item itemvalue="Kotlin.chapter2.T22_enumKt" />
-        <item itemvalue="Kotlin.chapter2.T21_DataClassKt" />
-        <item itemvalue="Kotlin.chapter2.T18_inheritanceKt" />
+        <item itemvalue="Kotlin.chapter3.T32_annotationKt" />
+        <item itemvalue="Kotlin.chapter3.T31_collectionKt" />
+        <item itemvalue="Kotlin.chapter3.T30_ExceptionKt" />
+        <item itemvalue="Kotlin.chapter3.T29_nullableKt" />
+        <item itemvalue="Kotlin.chapter3.T28_HigherOrderUtilFunctionsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +215,28 @@
       <option name="project" value="LOCAL" />
       <updated>1584950928200</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="lambda">
+      <created>1584954081000</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1584954081000</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ho functions">
+      <created>1584955121174</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1584955121174</updated>
+    </task>
+    <task id="LOCAL-00015" summary="nullable">
+      <created>1585012998153</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1585012998154</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -231,44 +252,64 @@
     <MESSAGE value="interface" />
     <MESSAGE value="enum" />
     <MESSAGE value="inner class" />
-    <option name="LAST_COMMIT_MESSAGE" value="inner class" />
+    <MESSAGE value="lambda" />
+    <MESSAGE value="ho functions" />
+    <MESSAGE value="nullable" />
+    <option name="LAST_COMMIT_MESSAGE" value="nullable" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-714" y="28" key="#com.intellij.ide.util.MemberChooser" timestamp="1584952452746">
       <screen x="-1024" y="-74" width="1024" height="768" />
     </state>
     <state x="-714" y="28" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1584952452746" />
-    <state x="-850" y="-74" key="CommitChangelistDialog2" timestamp="1584950927975">
+    <state x="-850" y="-74" key="CommitChangelistDialog2" timestamp="1585012997839">
       <screen x="-1024" y="-74" width="1024" height="768" />
     </state>
-    <state x="-850" y="-74" key="CommitChangelistDialog2/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1584950927975" />
-    <state width="980" height="203" key="GridCell.Tab.0.bottom" timestamp="1584953152848">
+    <state x="-850" y="-74" key="CommitChangelistDialog2/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1585012997839" />
+    <state width="980" height="201" key="GridCell.Tab.0.bottom" timestamp="1585015288759">
       <screen x="-1024" y="-74" width="1024" height="768" />
     </state>
-    <state width="980" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1584953152848" />
-    <state width="980" height="203" key="GridCell.Tab.0.center" timestamp="1584953152848">
+    <state width="980" height="201" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1585015288759" />
+    <state width="980" height="201" key="GridCell.Tab.0.center" timestamp="1585015288759">
       <screen x="-1024" y="-74" width="1024" height="768" />
     </state>
-    <state width="980" height="203" key="GridCell.Tab.0.center/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1584953152848" />
-    <state width="980" height="203" key="GridCell.Tab.0.left" timestamp="1584953152847">
+    <state width="980" height="201" key="GridCell.Tab.0.center/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1585015288759" />
+    <state width="980" height="201" key="GridCell.Tab.0.left" timestamp="1585015288758">
       <screen x="-1024" y="-74" width="1024" height="768" />
     </state>
-    <state width="980" height="203" key="GridCell.Tab.0.left/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1584953152847" />
-    <state width="980" height="203" key="GridCell.Tab.0.right" timestamp="1584953152848">
+    <state width="980" height="201" key="GridCell.Tab.0.left/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1585015288758" />
+    <state width="980" height="201" key="GridCell.Tab.0.right" timestamp="1585015288759">
       <screen x="-1024" y="-74" width="1024" height="768" />
     </state>
-    <state width="980" height="203" key="GridCell.Tab.0.right/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1584953152848" />
+    <state width="980" height="201" key="GridCell.Tab.0.right/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1585015288759" />
+    <state width="980" height="233" key="GridCell.Tab.1.bottom" timestamp="1585013202251">
+      <screen x="-1024" y="-74" width="1024" height="768" />
+    </state>
+    <state width="980" height="233" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1585013202251" />
+    <state width="980" height="233" key="GridCell.Tab.1.center" timestamp="1585013202251">
+      <screen x="-1024" y="-74" width="1024" height="768" />
+    </state>
+    <state width="980" height="233" key="GridCell.Tab.1.center/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1585013202251" />
+    <state width="980" height="233" key="GridCell.Tab.1.left" timestamp="1585013202251">
+      <screen x="-1024" y="-74" width="1024" height="768" />
+    </state>
+    <state width="980" height="233" key="GridCell.Tab.1.left/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1585013202251" />
+    <state width="980" height="233" key="GridCell.Tab.1.right" timestamp="1585013202251">
+      <screen x="-1024" y="-74" width="1024" height="768" />
+    </state>
+    <state width="980" height="233" key="GridCell.Tab.1.right/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1585013202251" />
     <state x="-1009" y="-59" key="SettingsEditor" timestamp="1584927297832">
       <screen x="-1024" y="-74" width="1024" height="768" />
     </state>
     <state x="-1009" y="-59" key="SettingsEditor/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1584927297832" />
-    <state x="-920" y="45" key="Vcs.Push.Dialog.v2" timestamp="1584950929367">
+    <state x="-920" y="45" key="Vcs.Push.Dialog.v2" timestamp="1585012999658">
       <screen x="-1024" y="-74" width="1024" height="768" />
     </state>
-    <state x="-920" y="45" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1584950929367" />
-    <state x="664" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1584927119502">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-920" y="45" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1585012999658" />
+    <state x="-670" y="182" key="com.intellij.ide.util.TipDialog" timestamp="1585009999416">
+      <screen x="-1024" y="-74" width="1024" height="768" />
     </state>
+    <state x="-670" y="182" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1024.-74.1024.768@-1024.-74.1024.768" timestamp="1585009999416" />
     <state x="664" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1024.-74.1024.768@0.0.1920.1040" timestamp="1584927119502" />
   </component>
 </project>
